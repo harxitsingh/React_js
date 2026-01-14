@@ -1,0 +1,22 @@
+/* Background center */
+.app-container {
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: #eef5ff;
+}
+
+/* Card styling */
+.clock-card {
+  background: white;
+  padding: 40px;
+  width: 600px;
+  border-radius: 20px;
+  box-shadow: 0 8px 25px rgba(0,0,0,0.1);
+  text-align: center;
+}
+.time-line {
+  font-size: 18px;
+  margin-top: 10px;
+}
