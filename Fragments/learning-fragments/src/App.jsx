@@ -14,6 +14,7 @@ function App (){
       <li className = "ListGroupitem"> fruits</li>
       <li className = "ListGroupitem">soup </li>
       <li className = "ListGroupitem">Milk </li>
+      <li className = "ListGroupitem">vegli>
             
     </ul>
   </React.Fragment>
